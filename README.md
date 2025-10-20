@@ -3,3 +3,5 @@
 静态库中的代码需要重新编译，动态库中的代码是编译好的
 环境变量是现代软件开发和系统管理中的重要工具，它有系统环境变量和用户环境变量
 
+![联想截图_20251020214424](https://github.com/user-attachments/assets/ffddcc11-49e3-4248-87f2-5a7d266dda62)
+![联想截图_20251020215045](https://github.com/user-attachments/assets/84190e5e-9961-4f40-b0e3-2fa2d74e2754)
